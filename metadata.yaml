@@ -1,11 +1,16 @@
 _repo: The-Use-and-Abuse-of-Church-Bells-With-Practical-Suggestions-concerning-Them_59272
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59272-h/images/cover.jpg
 creator:
   author:
     agent_name: Blunt, Walter
     gutenberg_agent_id: '50371'
     url: http://www.gutenberg.org/2009/agents/50371
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59272#The-Use-and-Abuse-of-Church-Bells-With-Practical-Suggestions-concerning-Them
 gutenberg_issued: '2019-04-13'
 gutenberg_type: Text
 identifiers:
